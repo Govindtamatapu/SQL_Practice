@@ -1,3 +1,4 @@
+-- QUERY STARTED
 SELECT
     nspname,
     relname,
